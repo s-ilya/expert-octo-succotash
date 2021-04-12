@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "src/**/*.ts",
+    "test/**/*ts",
+    ".eslintrc.js",
+    "babel.config.js",
+    "webpack.config.js",
+    "prettier.config.js"
+  ]
+}
